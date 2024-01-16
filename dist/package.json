@@ -1,13 +1,12 @@
 {
-    "name": "@marcdhisdk/utils",
+    "name": "@marcdhi/utils",
     "version": "0.0.1",
     "description": "",
-    "main": "lib/es2022/index.js",
     "module": "lib/es2022/index.js",
     "sideEffects": false,
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/marcdhi/mathsdk"
     },
     "files": [
         "lib",
