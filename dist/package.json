@@ -1,0 +1,21 @@
+{
+    "name": "@marcdhisdk/utils",
+    "version": "0.0.1",
+    "description": "",
+    "main": "lib/es2022/index.js",
+    "module": "lib/es2022/index.js",
+    "sideEffects": false,
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "files": [
+        "lib",
+        "CHANGELOG.md",
+        "package.json",
+        "README.md"
+    ],
+    "keywords": ["javascript",
+"utils", "utilities"],
+"author": "Mardav Gandhi"
+}
