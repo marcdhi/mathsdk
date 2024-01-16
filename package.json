@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build": "rm -rf dist/lib && tsc && tsc --build tsconfig.json"
+    "build": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
   },
   "keywords": [],
   "author": "",
